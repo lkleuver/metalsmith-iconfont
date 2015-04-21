@@ -24,6 +24,7 @@
     "chalk": "^1.0.0",
     "exec": "^0.2.0",
     "lodash": "^3.7.0",
+    "memorystream": "^0.3.1",
     "multimatch": "^2.0.0",
     "svg2ttf": "^1.2.0",
     "svgicons2svgfont": "^1.0.0",
